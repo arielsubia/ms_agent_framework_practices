@@ -1,1 +1,29 @@
 maf_env
+__pycache__/
+*.pyc
+.env
+
+# Virtual environment
+maf_env/
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
+
+# VS Code settings
+.vscode/
+
+# Temporary Logs & database files
+*.log
+*.sqlite3
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Dependencies files
+pip-wheel-metadata/

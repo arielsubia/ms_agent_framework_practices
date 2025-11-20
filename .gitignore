@@ -1,7 +1,5 @@
 maf_env
-__pycache__/
-*.pyc
-.env
+
 
 # Virtual environment
 maf_env/
@@ -9,19 +7,22 @@ maf_env/
 # Compiled Python files
 __pycache__/
 *.py[cod]
+*.pyc
 *.so
 
 # Environment files
 .env
+maf_env/Scripts/pyvenv.cfg
+maf_env/Scripts/
 
 # VS Code settings
 .vscode/
 
-# Temporary Logs & database files
+# Temporary logs & database files
 *.log
 *.sqlite3
 
-# Archivos de sistema
+# System files
 .DS_Store
 Thumbs.db
 

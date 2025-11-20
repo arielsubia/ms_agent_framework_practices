@@ -1,22 +1,22 @@
-# 🤖Best Practices, exercies and Comments using Agent Framework
+# 🤖Best Practices, exercices and comments using Agent Framework
 # Reference: Tech with Kirk Youtube Channel
 
-Este proyecto es una práctica con **Microsoft Agent Framework** y **Azure Foundry**, orientado a explorar agentes inteligentes, flujos seguros y automatización en Python.
+This project is part of **Microsoft Agent Framework** & **Azure Foundry**, regarding to dive into smart agents, secure workflows and Python automation.
 
 ---
 
-## 📦 Requisitos
+## 📦 Requirements
 
 - Python 3.12+
 - Git
-- Acceso a Azure Foundry (opcional)
-- Clave de API para OpenAI (si usás Semantic Kernel)
+- Azure Foundry access (optional)
+- API key for OpenAI (if using Semantic Kernel)
 
 ---
 
-## 🚀 Instalación
+## 🚀 Installation
 
-1. Cloná el repositorio:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/tu_usuario/MAF_BY_KIRK.git
